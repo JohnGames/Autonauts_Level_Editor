@@ -1,0 +1,43 @@
+{
+	"Interpreter": {
+		"Interpreter": "Default",
+		"Version": 0,
+				"Instruction": 9,
+				"LocalArray": [
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					"",
+					""
+				]
+		"GlobalArray": [
+			"226",
+			"79",
+			"64103",
+			"223 75 235 87 Full",
+			"Pole",
+			"0",
+			"0",
+			"FNOBotRecharge",
+			"",
+			"0",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	}
+}

@@ -1,0 +1,14 @@
+0 - Grass
+1 - Soil
+2 - Soil (Tilled)
+3 - Tree Growing
+6 - Fresh Water
+7 - Fresh Water (Deep)
+8 - Sea Water
+9 - Deep Sea Water
+10 - Sand
+12 - Swamp
+14 - Trace Metal Ore Deposits
+19 - Clay Deposits
+23 - Trace Coal Deposits
+29 - Stone Depositsa
